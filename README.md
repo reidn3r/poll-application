@@ -7,6 +7,7 @@
 Principais tecnologias utilizadas:
 - Fastify
 - PostgreSQL
+- Prisma
 - Redis
 - Websockets
 - Docker
