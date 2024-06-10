@@ -1,5 +1,5 @@
 <h2 align="center"> Sistema de enquetes em tempo real </h2>
-<p align="center"> Projeto desenvolvido durante o evento Next Level Week Expert 2024 </p>
+<p align="center"> Implementação do backend de um sistema de enquetes em tempo real que oferece desempenho otimizado e atualização contínua. </p>
 
 <hr>
   
