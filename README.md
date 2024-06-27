@@ -13,6 +13,7 @@ Principais tecnologias utilizadas:
 - Docker
 
 <hr>
+
 ### Requisitos:
 Necessário ter Git e Node instalado  
 
